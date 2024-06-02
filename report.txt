@@ -1,0 +1,144 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/adder.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         2         2         0   100.00%
+    Expressions                      3         3         0   100.00%
+    Statements                       5         5         0   100.00%
+    Toggles                         34         2        32     5.88%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/apb_slave.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        15        14         1    93.33%
+    Conditions                       3         3         0   100.00%
+    Expressions                     12         5         7    41.66%
+    FSM States                       4         4         0   100.00%
+    FSM Transitions                  6         6         0   100.00%
+    Statements                      30        29         1    96.66%
+    Toggles                        364       326        38    89.56%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/aritmetic_block.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      4         0         4     0.00%
+    Statements                      16        16         0   100.00%
+    Toggles                        330       325         5    98.48%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/buffers.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        64        54        10    84.37%
+    Conditions                      96        20        76    20.83%
+    Statements                     151       141        10    93.37%
+    Toggles                        722       654        68    90.58%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/control.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        13         1    92.85%
+    FSM States                       5         5         0   100.00%
+    FSM Transitions                  9         6         3    66.66%
+    Statements                      28        26         2    92.85%
+    Toggles                        148        82        66    55.40%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/matmul.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Toggles                       1184      1078       106    91.04%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/matmul_coverage.sv
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       1         1         0   100.00%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/matmul_golden.sv
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        10         7         3    70.00%
+    Conditions                       8         3         5    37.50%
+    Statements                      22        16         6    72.72%
+    Toggles                        576       103       473    17.88%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/matmul_intf.sv
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Toggles                        184       165        19    89.67%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/matmul_stimulus.sv
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         5         7    41.66%
+    Conditions                       4         0         4     0.00%
+    Statements                     155       151         4    97.41%
+    Toggles                        722       131       591    18.14%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/matmul_tb.sv
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       7         7         0   100.00%
+    Toggles                          4         3         1    75.00%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/memory.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        36        32         4    88.88%
+    Conditions                      15        14         1    93.33%
+    Statements                      54        51         3    94.44%
+    Toggles                       1064       804       260    75.56%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/scratchpad.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        24        20         4    83.33%
+    Conditions                       8         8         0   100.00%
+    Statements                      41        31        10    75.60%
+    Toggles                        222        95       127    42.79%
+
+=================================================================================
+=== File: C:/Users/rossy/Downloads/212404982_207287889/212404982_207287889/matrix_multiplexer_lib/hdl/systolic_array.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Conditions                       1         1         0   100.00%
+    Statements                       9         9         0   100.00%
+    Toggles                        176       143        33    81.25%
+
+
+TOTAL COVERGROUP COVERAGE: 100.00%  COVERGROUP TYPES: 1
+
+TOTAL DIRECTIVE COVERAGE: 100.00%  COVERS: 7
+
+TOTAL ASSERTION COVERAGE: 100.00%  ASSERTIONS: 7
+
+Total Coverage By File (code coverage only, filtered view): 71.95%
+
